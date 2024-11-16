@@ -53,7 +53,7 @@ plugins:
 
 lsi: false
 safe: true
-source: octobeard.github.io
+source: /
 incremental: false
 highlighter: rouge
 gist:
